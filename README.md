@@ -1,1 +1,2 @@
 Teleport clients (tsh, tctl, tbot) should be the same major version as the cluster they are connecting to. Teleport servers are compatible with clients that are on the same major version or one major version older. Teleport servers do not support clients that are on a newer major version.
+https://goteleport.com/docs/installation/
